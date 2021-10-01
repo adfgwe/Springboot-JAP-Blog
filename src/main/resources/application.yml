@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://blog.c915c0asz4iy.ap-northeast-2.rds.amazonaws.com:3306/blog?serverTimezone=Asia/Seoul
+    username: root
+    password: blog1234
